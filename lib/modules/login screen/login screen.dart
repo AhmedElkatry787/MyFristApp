@@ -1,7 +1,7 @@
 import 'dart:ffi';
 
 import 'package:flutter/material.dart';
-import 'package:myfristapp/Register_Screen.dart';
+import 'package:myfristapp/modules/register_screen/Register_Screen.dart';
 
 
 class LoginScreen extends StatefulWidget {

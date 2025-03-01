@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:myfristapp/BMI-Result.dart';
-import 'package:myfristapp/BMI_calculator.dart';
-import 'package:myfristapp/Massenger_Screen.dart';
-import 'package:myfristapp/login%20screen.dart';
+import 'package:myfristapp/modules/bmi_result/BMI-Result.dart';
+import 'package:myfristapp/modules/bmi/BMI_calculator.dart';
+import 'package:myfristapp/modules/massenger%20screen/Massenger_Screen.dart';
+import 'package:myfristapp/modules/login%20screen/login%20screen.dart';
 
 
 void main() {
