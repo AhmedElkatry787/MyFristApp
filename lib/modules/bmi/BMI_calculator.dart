@@ -296,7 +296,7 @@ class _BmiCalculatorState extends State<BmiCalculator> {
                                    weight --;
                                  });
                                },
-                               child: Icon(Icons.remove),
+                               child: Icon(Icons.remove_circle),
                                mini: true,
                              ),
 
